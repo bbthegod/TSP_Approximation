@@ -1,0 +1,14 @@
+Python:
+    install Python3 on Microsoft Store
+PIP:
+    get PIP from:
+        curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+    install PIP:
+        python get-pip.py
+    verify:
+        pip help
+Dependencies:
+    install scipy: 
+        pip install scipy
+    install matplotlib: 
+        pip install matplotlib
